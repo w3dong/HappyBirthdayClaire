@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday, Claire!</string>
+    <string name="signature_text">From Cathy.</string>
+    <string name="japanese_wish">はたちおめでとう!</string>
+</resources>
